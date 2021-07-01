@@ -1,0 +1,37 @@
+
+@font-face {
+  font-family: ´fuente-título´;
+  src:url(fuentes/KGWhatATime.ttf);
+}
+
+#mi-fuente {
+  font-family: ´fuente-título´;
+  font-size: 48px;
+  color: #606C38;
+}
+
+@font-face {
+  font-family: ´fuente-parrafo´;
+  src:url(fuentes/RoughOwl-Regular.ttf);
+}
+
+#mi-fuente-parrafo {
+  font-family: ´fuente-parrafo´;
+  font-size: 20px;
+  color: #BC6C25;
+}
+
+@font-face {
+  font-family: ´fuente-link´;
+  src: url(fuentes/RoughOwl-Regular.ttf);
+}
+
+#mi-fuente-link {
+  font-family: ´fuente-link´;
+  font-size: 20px;
+  color: #8FA253;
+}
+
+body {
+  background-color: #FEFAE0;
+}
