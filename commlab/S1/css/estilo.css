@@ -8,6 +8,11 @@
   font-family: ´fuente-título´;
   font-size: 48px;
   color: #606C38;
+  position: absolute;
+  left: 50%;
+  margin-left: -50px;
+  top: 50%;
+  margin-top: -50px;
 }
 
 @font-face {
@@ -19,6 +24,11 @@
   font-family: ´fuente-parrafo´;
   font-size: 20px;
   color: #BC6C25;
+  position: absolute;
+  left: 50%;
+  margin-left: -50px;
+  top: 50%;
+  margin-top: -50px;
 }
 
 @font-face {
@@ -30,6 +40,11 @@
   font-family: ´fuente-link´;
   font-size: 20px;
   color: #8FA253;
+  position: absolute;
+  left: 50%;
+  margin-left: -50px;
+  top: 50%;
+  margin-top: -50px;
 }
 
 body {
