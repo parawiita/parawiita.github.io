@@ -33,6 +33,6 @@
 }
 
 body {
-  background-image:url(../imagenes/verduras.jpg);
+  background-image:url(.../imagenes/verduras.jpg);
   background-size: 100%;
 }
