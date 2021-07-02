@@ -6,9 +6,8 @@
 
 #mi-fuente {
   font-family: ´fuente-título´;
-  font-size: 48px;
-  color: #606C38;
-  
+  font-size: 60px;
+  color: #FEFAE0;
 }
 
 @font-face {
@@ -18,7 +17,7 @@
 
 #mi-fuente-parrafo {
   font-family: ´fuente-parrafo´;
-  font-size: 20px;
+  font-size: 23px;
   color: #BC6C25;
 }
 
@@ -29,8 +28,13 @@
 
 #mi-fuente-link {
   font-family: ´fuente-link´;
-  font-size: 20px;
+  font-size: 23px;
   color: #8FA253;
+}
+
+body {
+  background-image:url(../imagenes/verduras.JPG);
+  background-size: 100%;
 }
 
 body {
